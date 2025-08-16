@@ -1,0 +1,4 @@
+opencv-python
+pystray
+pillow
+win10toast
